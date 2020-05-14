@@ -2,5 +2,5 @@ book_filename: "pep_class"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Week "
 output_dir: "docs"

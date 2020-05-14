@@ -1,6 +1,6 @@
 --- 
-title: "PEP Class 2020"
-author: "Ben Harden"
+title: "PEP Class 2020: Career Building"
+author: "Kelly Luis"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -8,10 +8,31 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+
 ---
 
-# Welcome {-}
+# Aloha! {-}
 
-Welcome to the PEP Class 2020. The goal of this class is to prepare students to address questions pertinent to Global Climate Change within the Ocean and Environmental Sciences. The course will run over four weeks from June XX to June YY and complements a research internship with a scientist from the Woods Hole Science community by building a foundation of concepts and skills required to be a successful researcher.
+Welcome to the Career Building Site for PEP 2020! 
 
-![Photo by Matthew Barton, Woods Hole Oceanographic Institution](images/woods_hole_village.jpg)
+<font size="5">__Schedule__</font>
+
+<center> __Thursdays, 1600-1700 EST__ </center>
+
+|   Week   |            Topic             |  Speakers    |
+|:--------:|:----------------------------:|:------------:|
+|     1    |  Individual Development Plan |  Kelly Luis  |
+|     2    |    Diversity & Inclusion     |      TBD     |
+|     3    | Professionalism & Networking |      TBD     |
+|     4    |  Coming Back to Woods Hole   |      TBD     |
+|     5    |    Applying to Grad School   |      TBD     |
+|     6    |        Resume & CVs          |      TBD     |
+|     7    |   Applying to Federal Jobs   |      TBD     |
+|     8    |     Conference Abstracts     |      TBD     |
+|     9    |   Scientific Presentations   | Daniel Utter |
+|    10    |    Practice Presentations    |  Kelly Luis  |
+
+
+
+
+![Photo by Kelly Luis](images/woods_hole.jpg)
